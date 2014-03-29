@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Assistant</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="noImage">No Image</string>
     <string name="action_settings">Settings</string>
-
+	 <string name="capture">Take Photo</string>
 </resources>
