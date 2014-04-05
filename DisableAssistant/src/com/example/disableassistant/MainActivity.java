@@ -23,7 +23,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.googlecode.tesseract.android.TessBaseAPI;
-
+/*
+* This project is created to try TessTwo
+*/
 public class MainActivity extends Activity {
 	public static final String PACKAGE_NAME = "com.example.disableassistant";
 	public static final String DATA_PATH = Environment
